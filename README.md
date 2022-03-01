@@ -38,7 +38,7 @@ Os desafios estão localizados dentro pasta `challenges` em seus respectivos arq
 - `challenge2.py`
 - `challenge3.py`
 
-### Visualizando retorno das funções
+#### Visualizando retorno das funções
  
  Para visualizar o retorno de cada função, ao final de cada arquivo, há a chamada da função dentro de uma função `print()`. Insira no terminal o seguinte comando:
   
