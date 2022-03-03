@@ -24,6 +24,7 @@ Obs: Após clonar o repositório, para executar os testes será necessário prim
 2. Crie e ative o ambiente virtual 
 
 - `python3 -m venv .venv && source .venv/bin/activate`
+- Caso dê algum erro pelo fato de o venv não estar instalado, utilize o comando `sudo apt install python3-venv` e rode o romando acima novamente.
 
 3. Instale a biblioteca pytest
 
