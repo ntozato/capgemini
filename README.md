@@ -33,7 +33,7 @@ Obs: Após clonar o repositório, para executar os testes será necessário prim
 
 ## Desenvolvimento
 
-Os desafios estão localizados dentro pasta `challenges` em seus respectivos arquivos:
+Os desafios estão localizados dentro da pasta `challenges` em seus respectivos arquivos:
 
 - `challenge1.py`
 - `challenge2.py`
